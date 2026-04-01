@@ -1,11 +1,11 @@
 ***
 
-```markdown
-SimpleCal
-
+## SimpleCal
+```
 A lightweight, beautifully themed calendar and task management application for Linux, written in Python and GTK4. SimpleCal features full iCalendar (`.ics`) integration, local task management, and a robust background notification daemon to ensure you never miss an event.
+```
 
-✨ Features
+## ✨ Features
 
 📅 Multiple Views: Choose between Full (calendar + agenda), Compact (calendar + event sidebar), or Mini (floating calendar widget) modes.
 🔔 Background Daemon: Runs quietly in the background, firing off desktop notifications for your upcoming events and tasks.
@@ -14,11 +14,11 @@ A lightweight, beautifully themed calendar and task management application for L
 📝 Local Tasks: Create, edit, and delete local tasks directly within the app, complete with custom reminder times.
 ⚙️ Tray Icon Integration: Quick access to your calendar and daemon controls via your desktop environment's system tray.
 
-📦 Prerequisites
+## 📦 Prerequisites
 
 Ensure you have the following dependencies installed on your system. 
 
-**Debian/Ubuntu-based systems:**
+**DebianUbuntu-based systems:**
 ```bash
 sudo apt install python3 python3-gi gir1.2-gtk-4.0 libnotify-bin
 ```
