@@ -1,9 +1,8 @@
 ***
 
 ## SimpleCal
-```
+
 A lightweight, beautifully themed calendar and task management application for Linux, written in Python and GTK4. SimpleCal features full iCalendar (`.ics`) integration, local task management, and a robust background notification daemon to ensure you never miss an event.
-```
 
 ## ✨ Features
 
@@ -123,4 +122,3 @@ SimpleCal stores its configuration and local data in your user directory:
 * `~/.config/simplecal/tasks.txt`: Stores your local tasks and reminders.
 * `~/.config/simplecal/theme.txt`: Stores your currently selected theme.
 * `~/.config/simplecal/daemon.pid`: Keeps track of the running background daemon.
-```
