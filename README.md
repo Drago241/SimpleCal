@@ -1,20 +1,20 @@
 ***
 
 ```markdown
-# SimpleCal
+SimpleCal
 
 A lightweight, beautifully themed calendar and task management application for Linux, written in Python and GTK4. SimpleCal features full iCalendar (`.ics`) integration, local task management, and a robust background notification daemon to ensure you never miss an event.
 
-## ✨ Features
+✨ Features
 
-*📅 Multiple Views**: Choose between Full (calendar + agenda), Compact (calendar + event sidebar), or Mini (floating calendar widget) modes.
-*🔔 Background Daemon*: Runs quietly in the background, firing off desktop notifications for your upcoming events and tasks.
-* **🎨 Stunning Themes**: Includes 8 pre-built color palettes (Catppuccin Mocha/Latte, Nord, Tokyo Night, Rosé Pine, OLED Black, Minimal White) plus dynamic Material You support via Matugen.
-* **☁️ Cloud Syncing**: Read-only integration with iCalendar (`.ics`) feeds like Google Calendar.
-* **📝 Local Tasks**: Create, edit, and delete local tasks directly within the app, complete with custom reminder times.
-* **⚙️ Tray Icon Integration**: Quick access to your calendar and daemon controls via your desktop environment's system tray.
+📅 Multiple Views: Choose between Full (calendar + agenda), Compact (calendar + event sidebar), or Mini (floating calendar widget) modes.
+🔔 Background Daemon: Runs quietly in the background, firing off desktop notifications for your upcoming events and tasks.
+🎨 Stunning Themes: Includes 8 pre-built color palettes (Catppuccin Mocha/Latte, Nord, Tokyo Night, Rosé Pine, OLED Black, Minimal White) plus dynamic Material You support via Matugen.
+☁️ Cloud Syncing: Read-only integration with iCalendar (`.ics`) feeds like Google Calendar.
+📝 Local Tasks: Create, edit, and delete local tasks directly within the app, complete with custom reminder times.
+⚙️ Tray Icon Integration: Quick access to your calendar and daemon controls via your desktop environment's system tray.
 
-## 📦 Prerequisites
+📦 Prerequisites
 
 Ensure you have the following dependencies installed on your system. 
 
