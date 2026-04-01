@@ -7,8 +7,8 @@ A lightweight, beautifully themed calendar and task management application for L
 
 ## ✨ Features
 
-* **📅 Multiple Views**: Choose between Full (calendar + agenda), Compact (calendar + event sidebar), or Mini (floating calendar widget) modes.
-* **🔔 Background Daemon**: Runs quietly in the background, firing off desktop notifications for your upcoming events and tasks.
+*📅 Multiple Views**: Choose between Full (calendar + agenda), Compact (calendar + event sidebar), or Mini (floating calendar widget) modes.
+*🔔 Background Daemon*: Runs quietly in the background, firing off desktop notifications for your upcoming events and tasks.
 * **🎨 Stunning Themes**: Includes 8 pre-built color palettes (Catppuccin Mocha/Latte, Nord, Tokyo Night, Rosé Pine, OLED Black, Minimal White) plus dynamic Material You support via Matugen.
 * **☁️ Cloud Syncing**: Read-only integration with iCalendar (`.ics`) feeds like Google Calendar.
 * **📝 Local Tasks**: Create, edit, and delete local tasks directly within the app, complete with custom reminder times.
@@ -36,7 +36,7 @@ sudo pacman -S python python-gobject gtk4 libnotify
 
 1. Clone this repository or download the script:
    ```bash
-   git clone [https://github.com/yourusername/simplecal.git](https://github.com/yourusername/simplecal.git)
+   git clone [https://github.com/Drago241/simplecal.git](https://github.com/Drago241/simplecal.git)
    cd simplecal
    ```
 2. Make the script executable:
